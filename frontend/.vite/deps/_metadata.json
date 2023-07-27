@@ -1,0 +1,170 @@
+{
+  "hash": "5112ecbb",
+  "browserHash": "5977d99b",
+  "optimized": {
+    "@mui/icons-material/AccountCircleOutlined": {
+      "src": "../../node_modules/@mui/icons-material/AccountCircleOutlined.js",
+      "file": "@mui_icons-material_AccountCircleOutlined.js",
+      "fileHash": "e65399a3",
+      "needsInterop": true
+    },
+    "@mui/icons-material/AddTaskOutlined": {
+      "src": "../../node_modules/@mui/icons-material/AddTaskOutlined.js",
+      "file": "@mui_icons-material_AddTaskOutlined.js",
+      "fileHash": "d76ed5a3",
+      "needsInterop": true
+    },
+    "@mui/icons-material/ArticleOutlined": {
+      "src": "../../node_modules/@mui/icons-material/ArticleOutlined.js",
+      "file": "@mui_icons-material_ArticleOutlined.js",
+      "fileHash": "7164405a",
+      "needsInterop": true
+    },
+    "@mui/icons-material/ExploreOutlined": {
+      "src": "../../node_modules/@mui/icons-material/ExploreOutlined.js",
+      "file": "@mui_icons-material_ExploreOutlined.js",
+      "fileHash": "3c32f847",
+      "needsInterop": true
+    },
+    "@mui/icons-material/FlagOutlined": {
+      "src": "../../node_modules/@mui/icons-material/FlagOutlined.js",
+      "file": "@mui_icons-material_FlagOutlined.js",
+      "fileHash": "7f641a7e",
+      "needsInterop": true
+    },
+    "@mui/icons-material/HelpOutlineOutlined": {
+      "src": "../../node_modules/@mui/icons-material/HelpOutlineOutlined.js",
+      "file": "@mui_icons-material_HelpOutlineOutlined.js",
+      "fileHash": "8adb61f6",
+      "needsInterop": true
+    },
+    "@mui/icons-material/HistoryOutlined": {
+      "src": "../../node_modules/@mui/icons-material/HistoryOutlined.js",
+      "file": "@mui_icons-material_HistoryOutlined.js",
+      "fileHash": "36aa7f8b",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Home": {
+      "src": "../../node_modules/@mui/icons-material/Home.js",
+      "file": "@mui_icons-material_Home.js",
+      "fileHash": "c90e41e6",
+      "needsInterop": true
+    },
+    "@mui/icons-material/LibraryMusicOutlined": {
+      "src": "../../node_modules/@mui/icons-material/LibraryMusicOutlined.js",
+      "file": "@mui_icons-material_LibraryMusicOutlined.js",
+      "fileHash": "b3086dc3",
+      "needsInterop": true
+    },
+    "@mui/icons-material/LiveTvOutlined": {
+      "src": "../../node_modules/@mui/icons-material/LiveTvOutlined.js",
+      "file": "@mui_icons-material_LiveTvOutlined.js",
+      "fileHash": "f845a952",
+      "needsInterop": true
+    },
+    "@mui/icons-material/MovieOutlined": {
+      "src": "../../node_modules/@mui/icons-material/MovieOutlined.js",
+      "file": "@mui_icons-material_MovieOutlined.js",
+      "fileHash": "b56d8488",
+      "needsInterop": true
+    },
+    "@mui/icons-material/ReplyOutlined": {
+      "src": "../../node_modules/@mui/icons-material/ReplyOutlined.js",
+      "file": "@mui_icons-material_ReplyOutlined.js",
+      "fileHash": "db3fdbda",
+      "needsInterop": true
+    },
+    "@mui/icons-material/SearchOutlined": {
+      "src": "../../node_modules/@mui/icons-material/SearchOutlined.js",
+      "file": "@mui_icons-material_SearchOutlined.js",
+      "fileHash": "79a0a171",
+      "needsInterop": true
+    },
+    "@mui/icons-material/SettingsBrightnessOutlined": {
+      "src": "../../node_modules/@mui/icons-material/SettingsBrightnessOutlined.js",
+      "file": "@mui_icons-material_SettingsBrightnessOutlined.js",
+      "fileHash": "063779ab",
+      "needsInterop": true
+    },
+    "@mui/icons-material/SettingsOutlined": {
+      "src": "../../node_modules/@mui/icons-material/SettingsOutlined.js",
+      "file": "@mui_icons-material_SettingsOutlined.js",
+      "fileHash": "de01a62e",
+      "needsInterop": true
+    },
+    "@mui/icons-material/SportsBasketballOutlined": {
+      "src": "../../node_modules/@mui/icons-material/SportsBasketballOutlined.js",
+      "file": "@mui_icons-material_SportsBasketballOutlined.js",
+      "fileHash": "81a77ed0",
+      "needsInterop": true
+    },
+    "@mui/icons-material/SportsEsportsOutlined": {
+      "src": "../../node_modules/@mui/icons-material/SportsEsportsOutlined.js",
+      "file": "@mui_icons-material_SportsEsportsOutlined.js",
+      "fileHash": "4f9b4821",
+      "needsInterop": true
+    },
+    "@mui/icons-material/SubscriptionsOutlined": {
+      "src": "../../node_modules/@mui/icons-material/SubscriptionsOutlined.js",
+      "file": "@mui_icons-material_SubscriptionsOutlined.js",
+      "fileHash": "71d65842",
+      "needsInterop": true
+    },
+    "@mui/icons-material/ThumbDownAltOutlined": {
+      "src": "../../node_modules/@mui/icons-material/ThumbDownAltOutlined.js",
+      "file": "@mui_icons-material_ThumbDownAltOutlined.js",
+      "fileHash": "d998c6be",
+      "needsInterop": true
+    },
+    "@mui/icons-material/ThumbUpAltOutlined": {
+      "src": "../../node_modules/@mui/icons-material/ThumbUpAltOutlined.js",
+      "file": "@mui_icons-material_ThumbUpAltOutlined.js",
+      "fileHash": "371f99e0",
+      "needsInterop": true
+    },
+    "@mui/icons-material/VideoLibraryOutlined": {
+      "src": "../../node_modules/@mui/icons-material/VideoLibraryOutlined.js",
+      "file": "@mui_icons-material_VideoLibraryOutlined.js",
+      "fileHash": "cc34448b",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "ff284af6",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "de7cc510",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "197abd4e",
+      "needsInterop": false
+    },
+    "styled-components": {
+      "src": "../../node_modules/styled-components/dist/styled-components.browser.esm.js",
+      "file": "styled-components.js",
+      "fileHash": "e712a533",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YURIVWF5": {
+      "file": "chunk-YURIVWF5.js"
+    },
+    "chunk-WLDGGDVX": {
+      "file": "chunk-WLDGGDVX.js"
+    },
+    "chunk-W35RGOJH": {
+      "file": "chunk-W35RGOJH.js"
+    },
+    "chunk-2FATVHAI": {
+      "file": "chunk-2FATVHAI.js"
+    }
+  }
+}
